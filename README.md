@@ -13,7 +13,9 @@ apt update && apt upgrade -y
 ```
 apt install git clang -y
 ```
-<h5>Now Clone This repository</h5>
+```
+git clone https://github.com/Saurabh-Vishwakarm/Termux-C-Compiler
+```
 
 ```
 cd Termux-C-Compiler
